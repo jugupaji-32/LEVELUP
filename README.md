@@ -15,7 +15,7 @@
     <br />
     <a href="https://github.com/jugupaji-32/LEVELUP">View Demo</a>
     &middot;
-    <a href="https://levelup-techiemengo.netlify">Let's See</a>
+    <a href="https://levelup-techiemengo.netlify.app">Let's See</a>
 
   </p>
 </div>
